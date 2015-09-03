@@ -1,0 +1,9 @@
+Searching 1345 files for "travel bl"
+
+/Users/Lee/Desktop/pinteresting/app/views/pages/_home.html.erb:
+    1  <div class="jumbotron center">
+    2: 	<h1>Travel blog</h1>
+    3  	<p>
+    4  		<%= link_to "Log in", new_user_session_path, class: "btn btn-default btn-lg" %>
+
+1 match in 1 file
